@@ -1,0 +1,19 @@
+.Caja {
+    background-color: rgb(4, 45, 59);
+    width: 400px;
+    height: 150px;
+    color:rgb(66, 194, 187);
+    border: 4px ;
+    border-style:dotted;
+    margin: 50px;
+    padding: 40px; 
+    text-align:center end
+}
+
+.chorizo {
+    text-align: center center;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-size: 35px;
+   margin: 30px;
+}
